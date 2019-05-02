@@ -20,6 +20,6 @@ function whileLoop(n) {
 function doWhileLoop(num) {
   do {
 
-  } while (tincrementVariable() < numrue);
+  } while (incrementVariable() < num);
   return;
 }
