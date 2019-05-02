@@ -9,5 +9,6 @@ function forLoop(array) {
       // console.log(`"I am ${i + 1} strange loops."`);
     }
   }
+  console.log(array);
   return array;
 }
