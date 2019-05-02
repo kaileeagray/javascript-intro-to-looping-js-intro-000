@@ -6,7 +6,7 @@ function forLoop(array) {
       array[length + i] = "I am 1 strange loop.";
       // console.log("I am 1 strange loop.");
     } else {
-      array[length + i] = `"I am ${i + 1} strange loops."`;
+      array[length + i] = `"I am ${i} strange loops."`;
       // console.log(`"I am ${i + 1} strange loops."`);
     }
   }
